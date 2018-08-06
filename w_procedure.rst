@@ -32,13 +32,14 @@ Step 2.
 Step 3.
 	Upon receipt of confirmation from Zoya, Justin withdraws article in JPS.
 
-	Steps in JPS.
+	*Steps in JPS.*
 
 
 	.. image:: /_static/withdraw_unwithdraw_jps.png
 	   :alt: JPS: withdrawal procedure
 	   :scale: 30%
 
+	
 	In "Advanced Manuscript Tasks" (on the article page), click on "Withdraw / Unwithdraw Manuscript".
 
 
@@ -52,7 +53,7 @@ Step 3.
 Step 4.
 	Justin adds MS number (and other detals) of withdrawn article on the "WoS papers" tab of "Pending Issues Vol 8/9" spreadsheet (https://docs.google.com/spreadsheets/d/1eARSldeOudamoymUEy2-Q8HrEO3E-91br7MK8Fq_elM/edit#gid=755529392). The "Production Status" is set to "WITHDRAWN".
 
-	"Pending Issues Vol 8/9" spreadsheet.
+	*"Pending Issues Vol 8/9" spreadsheet.*
 
 
 
@@ -86,7 +87,7 @@ Step 6A.
 	Justin withdraws article from OJS.
 
 	Steps in OJS.
-	
+
 
 	.. image:: /_static/withdrawal_ojs.png
 	   :alt: OJS: withdrawal procedure
