@@ -18,7 +18,7 @@ The diagram below shows the steps in detail:
 
 .. image:: /_static/withdrawal_oncotarget.png
    :alt: Oncotarget: withdrawal procedure
-   :scale: 60%
+   :scale: 50%
 
 
 
@@ -53,8 +53,8 @@ Step 4.
 
 	"Pending Issues Vol 8/9" spreadsheet.
 
-.. image:: /_static/withdraw_jps.png
-   :alt: JPS: withdrawal procedure
+.. image:: /_static/withdraw_wos.png
+   :alt: WoS Tab: withdrawal procedure
    :scale: 40%
 
 
@@ -69,9 +69,8 @@ Step 5.
 	b). If you get "DOI Not Found" page, then DOI has **not** been regisered for the article. Any other result would mean that artcile has DOI.
 
 .. image:: /_static/doi.png
-   :alt: JPS: withdrawal procedure
+   :alt: DOI: withdrawal procedure
    :scale: 40%
-
 
 
 	If article has DOI, then go to Step 6A. Otherwise go to Step 6B.
@@ -84,6 +83,11 @@ Step 6A.
 
 	OJS.
 
+.. image:: /_static/withdrawal_ojs.png
+   :alt: OJS: withdrawal procedure
+   :scale: 40%
+
+
 	On "Editing" tab of the article in "WITHDRAWAL" section, type in withdrawal reason (or modify one of the suggested ones) and click on "Withdraw Article" button.
 
 	This step will put the artcile to special "Withdrawn" issue and update DOI meta data to reflect the fact that article has been withdrawn.
@@ -94,6 +98,8 @@ Step 6B.
 	Justin assigns the article to "Deleted" issue is OJS.
 
 	OJS.
+
+
 
 	On "Editing" tab of the article in "SCHEDULING" section, select "Deleted" from the list of the issues and click on "Record" button.
 
