@@ -32,7 +32,7 @@ Step 2.
 Step 3.
 	Upon receipt of confirmation from Zoya, Justin withdraws article in JPS.
 
-	*Steps in JPS.*
+	***Steps in JPS.***
 
 
 	.. image:: /_static/withdraw_unwithdraw_jps.png
@@ -53,7 +53,7 @@ Step 3.
 Step 4.
 	Justin adds MS number (and other detals) of withdrawn article on the "WoS papers" tab of "Pending Issues Vol 8/9" spreadsheet (https://docs.google.com/spreadsheets/d/1eARSldeOudamoymUEy2-Q8HrEO3E-91br7MK8Fq_elM/edit#gid=755529392). The "Production Status" is set to "WITHDRAWN".
 
-	*"Pending Issues Vol 8/9" spreadsheet.*
+	***"Pending Issues Vol 8/9" spreadsheet.***
 
 
 
@@ -65,7 +65,7 @@ Step 4.
 Step 5.
 	Justin checks whether article has DOI registered for the article in question (i.e. whether article has been published in "Advance Online Publications"). 
 
-	How to check whether article has DOI registered:
+	***How to check whether article has DOI registered:***
 
 	a). Type in (possible) article DOI in browser address field and press "enter". You can compile DOI by adding article PII to the following link: https://doi.org/10.18632/oncotarget.<PII here>. |br|
 	For example, DOI for PII 25832 is https://doi.org/10.18632/oncotarget.25832
@@ -86,7 +86,7 @@ Step 6A.
 
 	Justin withdraws article from OJS.
 
-	Steps in OJS.
+	***Steps in OJS.***
 
 
 	.. image:: /_static/withdrawal_ojs.png
@@ -103,7 +103,7 @@ Step 6B.
 
 	Justin assigns the article to "Deleted" issue is OJS.
 
-	Steps in OJS.
+	***Steps in OJS.***
 
 
 	On "Editing" tab of the article in "SCHEDULING" section, select "Deleted" from the list of the issues and click on "Record" button.
