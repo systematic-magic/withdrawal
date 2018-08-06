@@ -34,6 +34,10 @@ Step 3.
 
 	JPS.
 
+.. image:: /_static/withdraw_jps.png
+   :alt: JPS: withdrawal procedure
+   :scale: 40%
+
 	In "Advanced Manuscript Tasks" (on the article page), click on "Withdraw / Unwithdraw Manuscript".
 
 	Specify "Withdraw Reason" and type in "Withdraw Comments". Click on "Withdraw" button.
