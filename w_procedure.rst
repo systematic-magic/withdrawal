@@ -33,11 +33,19 @@ Step 3.
 	Upon receipt of confirmation from Zoya, Justin withdraws article in JPS. |br|
 
 	JPS.
-	
-.. image:: /_static/withdraw_unwithdraw_jps.png
-   :alt: JPS: withdrawal procedure
-   :scale: 40%
 
+	.. image:: /_static/withdraw_unwithdraw_jps.png
+	   :alt: JPS: withdrawal procedure
+	   :scale: 40%
+
+	In "Advanced Manuscript Tasks" (on the article page), click on "Withdraw / Unwithdraw Manuscript".
+
+
+	.. image:: /_static/withdraw_jps.png
+	   :alt: JPS: withdrawal procedure
+	   :scale: 40%
+
+	Specify "Withdraw Reason" and type in "Withdraw Comments". Click on "Withdraw" button.
 
 
 Step 4.
