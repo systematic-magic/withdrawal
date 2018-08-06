@@ -83,6 +83,6 @@ Step 7.
 
 
 
-	.. |br| raw:: html
+.. |br| raw:: html
 
    <br />
