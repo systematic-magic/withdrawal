@@ -18,7 +18,7 @@ The diagram below shows the steps in detail:
 
 .. image:: /_static/withdrawal_oncotarget.png
    :alt: Oncotarget: withdrawal procedure
-   :scale: 40%
+   :scale: 60%
 
 
 
@@ -52,6 +52,10 @@ Step 4.
 	Justin adds MS number (and other detals) of withdrawn article on the "WoS papers" tab of "Pending Issues Vol 8/9" spreadsheet (https://docs.google.com/spreadsheets/d/1eARSldeOudamoymUEy2-Q8HrEO3E-91br7MK8Fq_elM/edit#gid=755529392). The "Production Status" is set to "WITHDRAWN".
 
 	"Pending Issues Vol 8/9" spreadsheet.
+
+.. image:: /_static/withdraw_jps.png
+   :alt: JPS: withdrawal procedure
+   :scale: 40%
 
 
 Step 5.
