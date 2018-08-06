@@ -68,6 +68,11 @@ Step 5.
 
 	b). If you get "DOI Not Found" page, then DOI has **not** been regisered for the article. Any other result would mean that artcile has DOI.
 
+.. image:: /_static/doi.png
+   :alt: JPS: withdrawal procedure
+   :scale: 40%
+
+
 
 	If article has DOI, then go to Step 6A. Otherwise go to Step 6B.
 
