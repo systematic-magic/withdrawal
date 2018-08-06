@@ -16,7 +16,9 @@ Depending on whether article, which is a subject to withdrawal, is published in 
 The diagram below shows the steps in detail:
 
 
-
+.. image:: /_static/withdrawal_oncotarget.png
+   :alt: Oncotarget: withdrawal procedure
+   :scale: 40%
 
 
 
